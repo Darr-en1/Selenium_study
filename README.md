@@ -1,2 +1,2 @@
 # Selenium_study
-Selenium简单实用
+Selenium简单使用
